@@ -1,6 +1,6 @@
 # BrightPath Volunteers Landing Page
 
-A modern, eye-catching landing page for a volunteer organization built with **only HTML + CSS** (no JS, no frameworks).
+A modern, eye-catching landing page for a volunteer organization built with **only HTML + CSS**.
 
 ## What's Included
 
